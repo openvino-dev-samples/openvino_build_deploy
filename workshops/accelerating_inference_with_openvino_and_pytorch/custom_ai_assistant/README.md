@@ -34,4 +34,5 @@ Windows 11
 
 | Labs    | Introduce | Go |
 | -------- | ------- |  ------- |
-| 🚀 Lab-Custom AI Assistant  | Learn how to create an AI Assistant on your AI PC    |  [Go](./custom_ai_assistant.ipynb)    |
+| 🚀 Lab-1-GenAI API  | Learn how to deploy LLM with GenAI API    |  [Go](./lab1-genai_api.ipynb)    |
+| 🚀 Lab-2-Custom AI Assistant  | Learn how to create an AI Assistant on your AI PC    |  [Go](./lab2-custom_ai_assistant.ipynb)    |
